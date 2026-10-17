@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "adroit": {
+      "type": "http",
+      "url": "https://platform.adroit-security.net/api/mcp"
+    }
+  }
+}

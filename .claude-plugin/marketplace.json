@@ -1,0 +1,18 @@
+{
+  "name": "adroit",
+  "owner": {
+    "name": "Adroit Security",
+    "url": "https://github.com/Adroit-Security"
+  },
+  "metadata": {
+    "description": "Adroit for coding agents: pentests and their findings inside Claude Code."
+  },
+  "plugins": [
+    {
+      "name": "adroit",
+      "source": "./",
+      "description": "Launch White Box and Black Box pentests, fix the findings in your repo and verify each fix with a retest, without leaving the agent.",
+      "category": "security"
+    }
+  ]
+}

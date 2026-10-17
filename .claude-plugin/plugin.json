@@ -1,0 +1,12 @@
+{
+  "name": "adroit",
+  "version": "0.1.0",
+  "description": "Launch White Box and Black Box pentests, fix the findings in your repo and verify each fix with a retest, without leaving the agent.",
+  "author": {
+    "name": "Adroit Security",
+    "url": "https://github.com/Adroit-Security"
+  },
+  "homepage": "https://github.com/Adroit-Security/Agent",
+  "repository": "https://github.com/Adroit-Security/Agent",
+  "keywords": ["security", "pentesting", "appsec", "mcp", "vulnerabilities"]
+}
