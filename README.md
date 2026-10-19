@@ -82,7 +82,3 @@ instructions.
 - **`SOLVED` comes from a retest**, not from a merged PR.
 - **The agent can do what your Adroit role allows and nothing more.** Permissions are enforced by
   Adroit on every call.
-
-## Feedback
-
-Open an issue in this repository.
